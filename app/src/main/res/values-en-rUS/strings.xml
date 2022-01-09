@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Pedia Animals</string>
+    <string name="search">Search</string>
+    <string name="welcometo">Welcome To</string>
+    <string name="hewanpedia">Pedia Animals</string>
+    //profil
+    <string name="name">Name : Hairul Azmi</string>
+    <string name="nim">NIM : 180201010</string>
+    <string name="major">Major : Information System</string>
+    //layout
+    <string name="daftar_ras_judul">List of Breeds</string>
+    <string name="sapi">Cow</string>
+    <string name="merpati">Dove</string>
+    <string name="kura">Turtle</string>
+    <string name="sapi_list_title">List of Cow Breeds</string>
+    <string name="merpati_list_title">List of Dove Breeds</string>
+    <string name="kura_list_title">List of Turtle Breeds</string>
+    //data sapi
+    <string name="angus_nama">Angus</string>
+    <string name="angus_asal">Scotland</string>
+    <string name="angus_deskripsi">The characteristic of this cow is dark black skin so its name is easy to remember as Angus cow because in Indonesian Angus = charred.</string>
+    <string name="holstein_nama">Holstein</string>
+    <string name="holstein_asal">Europe</string>
+    <string name="holstein_deskripsi">Holstein cow or Frisia is one of the dairy cattle breeds which is now known as the cow that produces the most milk in dairy farms.</string>
+    <string name="hereford_nama">Hereford</string>
+    <string name="hereford_asal">United Kingdom</string>
+    <string name="hereford_deskripsi">Hereford cattle are a type of beef cattle originating from areas with a subtropical climate.</string>
+    <string name="simmental_nama">Simmental</string>
+    <string name="simmental_asal">Switzerland</string>
+    <string name="simmental_deskripsi">Simmental has reddish fur with white markings, and is bred for milk and meat.</string>
+    <string name="limousin_nama">Limousin</string>
+    <string name="limousin_asal">French</string>
+    <string name="limousin_deskripsi">Sapi limousin merupakan tipe sapi potong dengan perototan yang lebih baik dari Sapi Simmental.</string>
+    <string name="galloway_nama">Galloway</string>
+    <string name="galloway_asal">Scotland</string>
+    <string name="galloway_deskripsi">The Galloway is one of the longest beef cattle breeds in the world, named after the Galloway region of Scotland, where it originated, in the 17th century..</string>
+    //data merpati
+    <string name="modena_nama">Modena</string>
+    <string name="modena_asal">Italy</string>
+    <string name="modena_deskripsi">Has a fat body shape and round. In addition, the tail is short, which is about 25 cm.</string>
+    <string name="jacobin_nama">Jacobin</string>
+    <string name="jacobin_asal">India</string>
+    <string name="jacobin_deskripsi">The most prominent feature of this breed is the fur that is around the head to the neck shaped like a coat (Jacob)..</string>
+    <string name="brongsong_nama">Brongsong</string>
+    <string name="brongsong_asal">Indonesia</string>
+    <string name="brongsong_deskripsi">The characteristics of a large body, a wide crest and spread from the head to the cheeks, while the legs do not have hair.</string>
+    <string name="wulung_nama">Wulung</string>
+    <string name="wulung_asal">Indonesia</string>
+    <string name="wulung_deskripsi">Called the wulung because this dove has a color motif that is exactly the same as the wulung eagle / bondol eagle.</string>
+    <string name="satinetteorientalfrill_nama">Satinette Oriental Frill</string>
+    <string name="satinetteorientalfrill_asal">Turkey</string>
+    <string name="satinetteorientalfrill_deskripsi">The most prominent feature of this breed is the inverted hair from the neck to the chest, and there is also a crest on the head.</string>
+    //data kura-kura
+    <string name="redearslider_nama">Red Ear Slider</string>
+    <string name="redearslider_asal">Brazil</string>
+    <string name="redearslider_deskripsi">As the name implies, his trademark is the red color on his ears.</string>
+    <string name="leopard_nama">Leopard</string>
+    <string name="leopard_asal">Africa</string>
+    <string name="leopard_deskripsi">The attraction of this turtle is in the pattern on its shell which is like a squiggle on the skin of a leopard.</string>
+    <string name="spurred_nama">Spurred</string>
+    <string name="spurred_asal">Africa</string>
+    <string name="spurred_deskripsi">These turtles are in great demand by many people when they are small. When mature, the length of the spurred tortoise can reach 60 to 90 cm.</string>
+    <string name="radiated_nama">Radiated</string>
+    <string name="radiated_asal">Madagascar</string>
+    <string name="radiated_deskripsi">This tortoise has a very striking pattern, and this tortoise belongs to the endangered tortoise class.</string>
+    <string name="sulcata_nama">Sulcata</string>
+    <string name="sulcata_asal">Africa</string>
+    <string name="sulcata_deskripsi">This yellowish tortoise lives in desert climates and can adapt to tropical climates.</string>
+    <string name="aldabra_nama">Aldabra</string>
+    <string name="aldabra_asal">Seychelles</string>
+    <string name="aldabra_deskripsi">The characteristics of this turtle are dark colors, inconspicuous patterns, necks that can be elongated and can grow to a length of 1.2 meters.</string>
+
+</resources>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Hewan Pedia</string>
+    <string name="search">Cari</string>
+    <string name="welcometo">Selamat Datang di</string>
+    <string name="hewanpedia">Hewan Pedia</string>
+    //profil
+    <string name="name">Nama : Hairul Azmi</string>
+    <string name="nim">NIM : 180201010</string>
+    <string name="major">Prodi : Sistem Informasi</string>
+    //layout
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="sapi">Sapi</string>
+    <string name="merpati">Merpati</string>
+    <string name="kura">Kura-kura</string>
+    <string name="sapi_list_title">Daftar Ras Sapi</string>
+    <string name="merpati_list_title">Daftar Ras Merpati</string>
+    <string name="kura_list_title">Daftar Ras Kura-kura</string>
+    //data sapi
+    <string name="angus_nama">Angus</string>
+    <string name="angus_asal">Skotlandia</string>
+    <string name="angus_deskripsi">Ciri khas sapi ini berkulit hitam pekat sehingga namanya mudah diingat dengan sebutan sapi Angus karena dalam bahasa Indonesia Angus=hangus, gosong.</string>
+    <string name="holstein_nama">Holstein</string>
+    <string name="holstein_asal">Eropa</string>
+    <string name="holstein_deskripsi">Sapi holstein atau frisia merupakan salah satu trah sapi perah yang sekarang dikenal sebagai sapi yang terbanyak memproduksi susu di peternakan susu.</string>
+    <string name="hereford_nama">Hereford</string>
+    <string name="hereford_asal">Inggris</string>
+    <string name="hereford_deskripsi">Sapi Hereford merupakan salah satu jenis sapi potong yang berasal dari daerah dengan iklim subtropis.</string>
+    <string name="simmental_nama">Simmental</string>
+    <string name="simmental_asal">Swiss</string>
+    <string name="simmental_deskripsi">Simmental memiliki warna bulu kemerahan dengan corak warna putih, dan diternakkan untuk diambil susu dan dagingnya.</string>
+    <string name="limousin_nama">Limousin</string>
+    <string name="limousin_asal">Prancis</string>
+    <string name="limousin_deskripsi">Sapi limousin merupakan tipe sapi potong dengan perototan yang lebih baik dari Sapi Simmental.</string>
+    <string name="galloway_nama">Galloway</string>
+    <string name="galloway_asal">Skotlandia</string>
+    <string name="galloway_deskripsi">Galloway adalah salah satu breed sapi potong terpanjang di dunia, dinamai sesuai dengan wilayah Galloway di Skotlandia, tempat asalnya, pada abad ke-17.</string>
+    //data merpati
+    <string name="modena_nama">Modena</string>
+    <string name="modena_asal">Italia</string>
+    <string name="modena_deskripsi">Mempunyai bentuk tubuh yang gemuk dan bulat. Selain itu ekornya berukuran pendek yakni sekitar 25 cm.</string>
+    <string name="jacobin_nama">Jacobin</string>
+    <string name="jacobin_asal">India</string>
+    <string name="jacobin_deskripsi">Ciri yang paling menonjol dari jenis ini adalah bulu yang berada di sekitar kepala sampai leher berbentuk seperti mantel (Jacob).</string>
+    <string name="brongsong_nama">Brongsong</string>
+    <string name="brongsong_asal">Indonesia</string>
+    <string name="brongsong_deskripsi">Ciri-cirinya tubuh yang berukuran besar, jambul yang lebar dan menyebar pada bagian kepala sampai pipi, sedang bagian kakinya tidak memiliki bulu.</string>
+    <string name="wulung_nama">Wulung</string>
+    <string name="wulung_asal">Indonesia</string>
+    <string name="wulung_deskripsi">Disebut dengan wulung karena merpati ini mempunyai motif warna yang persis dengan burung elang wulung/elang bondol.</string>
+    <string name="satinetteorientalfrill_nama">Satinette Oriental Frill</string>
+    <string name="satinetteorientalfrill_asal">Turki</string>
+    <string name="satinetteorientalfrill_deskripsi">Ciri yang paling menonjol dari jenis ini yaitu bulu terbalik dari leher sampai dada, dan juga terdapat jambul di bagian kepalanya.</string>
+    //data kura-kura
+    <string name="redearslider_nama">Red Ear Slider</string>
+    <string name="redearslider_asal">Brazil</string>
+    <string name="redearslider_deskripsi">Sesuai dengan namanya, ciri khasnya adalah warna merah pada telinganya.</string>
+    <string name="leopard_nama">Leopard</string>
+    <string name="leopard_asal">Afrika</string>
+    <string name="leopard_deskripsi">Daya tarik kura-kura ini terdapat pada corak di batoknya yang seperti corat pada kulit macan tutul.</string>
+    <string name="spurred_nama">Spurred</string>
+    <string name="spurred_asal">Afrika</string>
+    <string name="spurred_deskripsi">Kura–kura ini sangat diminati banyak orang ketika ukurannya masih kecil. Ketika dewasa, panjang spurred tortoise bisa mencapai 60 hingga 90 cm.</string>
+    <string name="radiated_nama">Radiated</string>
+    <string name="radiated_asal">Madagaskar</string>
+    <string name="radiated_deskripsi">Kura-kura ini memiliki corak yang sangat mencolok, dan kura-kura ini masuk ke dalam golongan kura-kura yang terancam punah.</string>
+    <string name="sulcata_nama">Sulcata</string>
+    <string name="sulcata_asal">Afrika</string>
+    <string name="sulcata_deskripsi">Kura-kura ini berwarna kekuningan yang tinggal di iklim gurun dan dapat beradaptasi dengan iklim tropis.</string>
+    <string name="aldabra_nama">Aldabra</string>
+    <string name="aldabra_asal">Seychelles</string>
+    <string name="aldabra_deskripsi">Ciri khas kura-kura ini warna gelap, corak tidak mencolok, leher yang bisa memanjang dan bisa tumbuh hingga panjang 1,2 meter.</string>
+
+</resources>
